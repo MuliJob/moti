@@ -13,7 +13,7 @@
           Find quality spare parts for all vehicle makes and models — or list your own! Whether you're a car owner, mechanic, or reseller, our platform connects you to the right parts at the right price.
         </p>
 
-        <button class="btn btn-dash btn-primary">
+        <button class="btn btn-outline btn-primary">
           Get Started
         </button>
       </div>
