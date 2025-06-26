@@ -1,8 +1,4 @@
 @import "tailwindcss";
 @plugin "daisyui" {
-  themes:
-    halloween --default,
-    halloween --prefersdark,
-    cupcake,
-    dracula;
+  themes: all;
 }
