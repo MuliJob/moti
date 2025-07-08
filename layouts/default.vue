@@ -6,7 +6,7 @@
 <template>
   <div class="flex min-h-screen flex-col">
     <AppNavBar />
-    <main class="flex-1 flex flex-col">
+    <main class="flex-1 flex flex-col pt-18">
       <slot />
     </main>
     <AppFooter />
