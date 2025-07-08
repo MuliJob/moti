@@ -1,5 +1,5 @@
 <template>
-  <div class="navbar bg-base-100 shadow-sm">
+  <div class="navbar bg-base-100 shadow-sm fixed top-0 z-50">
     <div class="flex-1">
       <NuxtLink to="/" class="btn btn-ghost text-xl">
         Moti
