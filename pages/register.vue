@@ -18,7 +18,7 @@
               class="input input-bordered w-full"
               placeholder="Enter your username"
               required
-            />
+            >
           </div>
 
           <div>
@@ -31,7 +31,7 @@
               class="input input-bordered w-full"
               placeholder="Enter your email"
               required
-            />
+            >
           </div>
 
           <div>
@@ -45,7 +45,7 @@
               placeholder="Enter your password"
               required
               minlength="6"
-            />
+            >
           </div>
 
           <div>
@@ -59,7 +59,7 @@
               placeholder="Confirm your password"
               required
               minlength="6"
-            />
+            >
           </div>
         </div>
 
@@ -73,7 +73,9 @@
     </form>
 
     <!-- Divider -->
-    <div class="divider my-8 text-sm text-gray-500">Or</div>
+    <div class="divider my-8 text-sm text-gray-500">
+      Or
+    </div>
 
     <!-- Social login buttons -->
     <div class="flex flex-col gap-4">
