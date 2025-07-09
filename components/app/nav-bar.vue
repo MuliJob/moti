@@ -13,6 +13,12 @@
           <Icon name="ic:outline-login" size="24" />
         </button>
       </NuxtLink>
+      <NuxtLink to="/register" class="ml-2">
+        <button class="btn btn-outline btn-primary">
+          Register
+          <Icon name="ic:outline-person-add" size="24" />
+        </button>
+      </NuxtLink>
     </div>
   </div>
 </template>
